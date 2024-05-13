@@ -1,0 +1,12 @@
+[submodule "nidemall-server"]
+	path = nidemall-server
+	url = https://github.com/charlyisidore/nidemall-server
+[submodule "nidemall-admin"]
+	path = nidemall-admin
+	url = https://github.com/charlyisidore/nidemall-admin
+[submodule "nidemall-app"]
+	path = nidemall-app
+	url = https://github.com/charlyisidore/nidemall-app
+[submodule "nidemall-weapp"]
+	path = nidemall-weapp
+	url = https://github.com/charlyisidore/nidemall-weapp
